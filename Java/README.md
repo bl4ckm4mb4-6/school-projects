@@ -1,4 +1,4 @@
-# Java TCP Quote Server 📜
+# Java TCP Quote Server
 
 A Client-Server application based on TCP Sockets in Java. The client sends a numeric request and the server responds with a motivational quote.
 
@@ -30,6 +30,8 @@ A Client-Server application based on TCP Sockets in Java. The client sends a num
 ```bash
 	java esercizi.ClientCitazioni
 ```
+
+You can also run files in the Eclipse IDE or your favourite IDE.
 
 
 ## 🧠 What I learned
