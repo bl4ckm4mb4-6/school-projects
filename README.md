@@ -5,6 +5,7 @@ and personal study.
 
 The repository is organized into subfolders. **Each project contains its own specific `README.md` file** with detailed instructions
 on how to compile and run it.
+> **Note on Language:** The user interface, variable names, code comments and file names are written in Italian.
 
 
 
